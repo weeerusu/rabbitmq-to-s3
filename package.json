@@ -4,7 +4,7 @@
   "description": "A function for uploading RabbitMQ messages (AMQP) to S3 Bucket",
   "main": "rabbitmqs3.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon ./rabbitmqs3.js"
   },
   "author": "",
   "license": "ISC"
